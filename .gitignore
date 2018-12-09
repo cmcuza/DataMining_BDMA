@@ -1,1 +1,4 @@
 .idea
+input_data/accidents_2012_to_2014.csv
+output_data/preprocessed_fatal_accidents_task3.csv
+
